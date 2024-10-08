@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728401724 source:d:\tugas sll\sll\main.cpp
+	"SLL.h"
+
+1728401756 d:\tugas sll\sll\sll.h
+	<iostream>
+	<string>
+
+1728401724 source:d:\tugas sll\sll\sll.cpp
+	"SLL.h"
+
