@@ -7,7 +7,7 @@ using namespace std;
 
 // Type definitions
 struct FlightInfo {
-    string flightNumber;
+    int flightNumber;
     string departureCity;
     string arrivalCity;
     string arrivalTime;
